@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("我想你了");
-        System.out.println("nimabi");
+        System.out.println("nimabi1");
     }
 }
